@@ -1,11 +1,10 @@
+<h1 align="center">Hi 👋, I'm Simón Arboleda Ramirez</h1>
+<h3 align="center">Passionate full-stack web3, machine learning, and blockchain developer, deeply interested in the world of development since a young age, and currently studying computer science at the National University of Colombia.</h3>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simon0820s&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=simon0820s&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<h1 align="center">Hi 👋, I'm Simón Arboleda Ramirez</h1>
-<h3 align="center">Passionate full-stack web3, machine learning, and blockchain developer, deeply interested in the world of development since a young age, and currently studying computer science at the National University of Colombia.</h3>
 
 # 💫 About Me:
 seedling I’m currently learning Next, Solidity, React<br><br> All of my projects are available at https://github.com/simon0820s<br><br>Ask me about React, Next, ML, Blockchain<br><br>How to reach me simon0820s@gmail.com<br><br>
