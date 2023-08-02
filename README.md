@@ -2,7 +2,7 @@
 <h3 align="center">Passionate full-stack web3, machine learning, and blockchain developer, deeply interested in the world of development since a young age, and currently studying computer science at the National University of Colombia.</h3>
 
 # 💫 About Me:
-seedling I’m currently learning Next, Solidity, React<br><br> All of my projects are available at https://github.com/simon0820s<br><br>Ask me about React, Next, ML<br><br>How to reach me simon0820s@gmail.com<br><br>
+seedling I’m currently learning Next, Solidity, React<br><br> All of my projects are available at https://github.com/simon0820s<br><br>Ask me about React, Next, ML, Blockchain<br><br>How to reach me simon0820s@gmail.com<br><br>
 
 
 ## 🌐 Socials:
