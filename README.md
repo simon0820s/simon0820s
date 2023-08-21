@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simón Arboleda Ramirez</h1>
-<h3 align="center">Passionate full-stack web3, machine learning, and blockchain developer, deeply interested in the world of development since a young age, and currently studying computer science at the National University of Colombia.</h3>
+<h3 align="center">Passionate full-stack web3, machine learning, and blockchain engineer, deeply interested in the world of development since a young age, and currently studying computer science at the National University of Colombia.</h3>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=simon0820s&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
