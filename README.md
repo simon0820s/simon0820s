@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=simon0820s&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-seedling I’m currently learning Next, Solidity, React, Angular, MongoDb<br><br> All of my projects are available at https://github.com/simon0820s<br><br>Ask me about React, Next, ML, MongoDB, BlockChain<br><br>How to reach me:  simon0820s@gmail.com<br><br>
+seedling I’m currently learning Rust, React and algorithms<br><br> All of my projects are available at https://github.com/simon0820s<br><br>Ask me about React, Next, ML, MongoDB, BlockChain<br><br>How to reach me:  simon0820s@gmail.com<br><br>
 
 
 ## 🌐 Socials:
